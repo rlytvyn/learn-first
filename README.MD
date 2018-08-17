@@ -1,3 +1,3 @@
 
-second commit
+Educationary project
 
